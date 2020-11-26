@@ -1,0 +1,5 @@
+Credentials cache: API:A350EBE7-CCFC-4BB8-BA5E-CAEE66A490BC
+        Principal: adi-nall@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 25 18:02:16 2020  Nov 26 04:02:16 2020  krbtgt/42ROMA.IT@42ROMA.IT
